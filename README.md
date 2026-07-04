@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 - Integrated pedagogical frameworks to provide real-time feedback and structured reflection.
 
 📄 Paper: https://link.springer.com/chapter/10.1007/978-3-032-29770-9_1 
+
 💻 Code: https://github.com/jw070698/PreMath
+
 🎥 Full Demo (2 min): https://youtu.be/QsSiskwubXk
 
 ---
@@ -38,8 +40,11 @@ Here are some ideas to get you started:
 - Evaluated against GPT-4o and Khanmigo in the user study.
 
 📄 Paper: https://dl.acm.org/doi/abs/10.1145/3698205.3729541
+
 💻 Code: https://github.com/jw070698/PlanGlow
+
 🎥 Full Demo (4 min) : https://youtu.be/Bzi67Qrqzdg?si=joG8iboLOSm-F2uZ
+
 ---
 
 ### ConflictLens (UIST Adjunct 2025)
@@ -51,4 +56,5 @@ Here are some ideas to get you started:
 - Supported conflict analysis, annotation, and AI-assisted communication practice.
 
 📄 Paper: https://dl.acm.org/doi/full/10.1145/3746058.3758422
+
 💻 Code: https://github.com/jw070698/ConflictFree
