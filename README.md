@@ -58,3 +58,5 @@ Here are some ideas to get you started:
 📄 Paper: https://dl.acm.org/doi/full/10.1145/3746058.3758422
 
 💻 Code: https://github.com/jw070698/ConflictFree
+
+🎥 Full Demo (3 min): https://youtu.be/87kPgUZgC2U
